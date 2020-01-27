@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'freshfa1_shamba' );
 
 /** MySQL database username */
-define( 'DB_USER', 'freshfa1_bet' );
+define( 'DB_USER', 'freshfa1_shamba' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Kitalale@2010' );
