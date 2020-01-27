@@ -1,0 +1,919 @@
+# Copyright (C) 2015 eVisionThemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Bizlight\n"
+"POT-Creation-Date: 2017-03-23 09:47+0545\n"
+"PO-Revision-Date: 2015-12-02 14:06+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: front-page.php:22
+#, php-format
+msgid ""
+"All Section are based on page. Enable each Section from customizer for </br> "
+"slider: Home/Front Main Slider -> Setting Options -> Enable. likewise to "
+"other sections </br> %s"
+msgstr ""
+
+#: front-page.php:23
+msgid "click here"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary"
+msgstr ""
+
+#: functions.php:69
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:141
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/colors/general.php:11
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/colors/general.php:12
+msgid "Customize colors of you awesome site"
+msgstr ""
+
+#: inc/customizer/colors/general.php:20
+msgid "Basic Colors Options"
+msgstr ""
+
+#: inc/customizer/colors/general.php:28
+msgid "BizPlus Colors Reset"
+msgstr ""
+
+#: inc/customizer/colors/general.php:76
+#, php-format
+msgid "%1$s Hover Color Options %2$s"
+msgstr ""
+
+#: inc/customizer/colors/general.php:102
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:103
+msgid ""
+"This color will come in several places of your site, please select color "
+"according to your site"
+msgstr ""
+
+#: inc/customizer/colors/general.php:118
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:119
+msgid "Site title and tagline color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:134
+msgid "Text Over Image Color"
+msgstr ""
+
+#: inc/customizer/colors/general.php:135
+msgid "Will modify all the text color over image"
+msgstr ""
+
+#: inc/customizer/colors/general.php:149
+msgid "Footer Section Background"
+msgstr ""
+
+#: inc/customizer/colors/general.php:165
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/colors/general.php:166
+msgid ""
+"Caution: Reset all above color settings to default. Refresh the page after "
+"save to view the effects. "
+msgstr ""
+
+#: inc/customizer/customizer.php:135 inc/customizer/customizer.php:145
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:146
+msgid ""
+"Caution: Reset all options settings to default. Refresh the page after save "
+"to view the effects. "
+msgstr ""
+
+#: inc/customizer/customizer.php:160
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:15
+msgid "Enable Options"
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:26
+msgid "Enable Feature Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/enable-slider.php:28
+msgid "Enable \"Feature slider\" on checked"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-page.php:15
+msgid "Select From Page"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-page.php:16
+msgid ""
+"This option only work when you have selected \"Page\" in \"Settings Options"
+"\"."
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-from-page.php:29
+#, php-format
+msgid "Select Page For Slide %s"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:6
+msgid "Home/Front Main Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:18
+#: inc/customizer/home-callback/settings.php:11
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:24
+msgid "Slider Property"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:34
+msgid "Single Slider- Number Of Words"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:35
+#: inc/customizer/home-service/service-options.php:69
+msgid "If you do not have selected from - Custom"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:50
+msgid "Slider Mode"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:54
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:55
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:56
+msgid "Fade-Out"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:69
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:83
+msgid "Enable Pager"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-property.php:97
+msgid "Slider Section Button Text"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:16
+msgid "Settings Options"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:27
+msgid "Number Of Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:31
+#: inc/customizer/home-portfolio/portfolio-options.php:51
+#: inc/customizer/home-service/service-options.php:53
+msgid "1"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:32
+#: inc/customizer/home-portfolio/portfolio-options.php:52
+#: inc/customizer/home-service/service-options.php:54
+msgid "2"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-settings.php:33
+#: inc/customizer/home-portfolio/portfolio-options.php:53
+#: inc/customizer/home-service/service-options.php:55
+msgid "3"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:11
+msgid "Font Setting"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:47
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:59
+msgid "Body ( paragraph ) Primary"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:60
+msgid "change primary font family"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:76
+msgid "Site Identity/Logo"
+msgstr ""
+
+#: inc/customizer/font-setting/font-family.php:77
+msgid "Site Identity font family"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:12
+msgid "Know More"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:18
+#: inc/customizer/home-callback/settings.php:18
+msgid "Section Settings"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:33
+#: inc/customizer/home-blog/blog-options.php:31
+#: inc/customizer/home-portfolio/portfolio-options.php:32
+#: inc/customizer/home-service/service-options.php:34
+msgid "Select Main Page"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:34
+msgid "Select main page for about section"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:52
+msgid "Select Page For About Section"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:76
+#: inc/customizer/home-blog/blog-options.php:48
+#: inc/customizer/home-callback/settings.php:30
+msgid "Number Of Words"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:77
+msgid "Give number of words you wish to be appear on home page about section"
+msgstr ""
+
+#: inc/customizer/home-about/about-section.php:93
+msgid "About Section Button Text"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:15
+#: inc/customizer/home-blog/enable-blog-section.php:15
+#: inc/customizer/home-portfolio/enable-section.php:15
+msgid "Enable Option"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:26
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/home-about/enable-about-section.php:27
+msgid "Enable \"About Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-about/home-about-panel.php:6
+msgid "Home/Front About Section"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:9
+msgid "Browse more"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:16
+msgid "Buttton settings"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:26
+#: inc/customizer/home-service/service-options.php:84
+msgid "Browse All Button Text"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-button-section.php:40
+#: inc/customizer/home-service/service-options.php:98
+msgid "Browse All Button Link"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:17
+#: inc/customizer/home-portfolio/portfolio-options.php:17
+msgid "Section settings"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:32
+msgid "Select main page for blog section"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:49
+msgid ""
+"Give number of words you wish to be appear on home page blog section sticky "
+"post/ feature post"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:65
+msgid "Select Category For Blog"
+msgstr ""
+
+#: inc/customizer/home-blog/blog-options.php:66
+msgid "Blog will only displayed from this category"
+msgstr ""
+
+#: inc/customizer/home-blog/enable-blog-section.php:26
+msgid "Enable Blog"
+msgstr ""
+
+#: inc/customizer/home-blog/enable-blog-section.php:27
+msgid "Enable \"Blog Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:6
+msgid "Home/Front blog Section"
+msgstr ""
+
+#: inc/customizer/home-callback/options.php:16
+msgid "Section Options"
+msgstr ""
+
+#: inc/customizer/home-callback/options.php:27
+msgid "Enable callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/options.php:28
+msgid "Enable \"callback Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-callback/options.php:44
+msgid "Select Page For callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/panel.php:6
+msgid "Home/Front Callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/settings.php:31
+msgid ""
+"Give number of words you wish to be appear on home page callback section"
+msgstr ""
+
+#: inc/customizer/home-callback/settings.php:46
+msgid "Enable Button"
+msgstr ""
+
+#: inc/customizer/home-portfolio/enable-section.php:26
+msgid "Enable Portfolio"
+msgstr ""
+
+#: inc/customizer/home-portfolio/enable-section.php:27
+msgid "Enable Portfolio Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-portfolio/home-portfolio-panel.php:6
+msgid "Home/Front Portfolio"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-category-select.php:14
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-category-select.php:27
+#, php-format
+msgid "Select Category For Portfolio %s"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-category-select.php:28
+msgid "Portfolio will only displayed from this category"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-options.php:33
+msgid "Select main page for portfolio section"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-options.php:47
+msgid "Number Of portfolio/s"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-options.php:54
+msgid "4"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-options.php:55
+msgid "5"
+msgstr ""
+
+#: inc/customizer/home-portfolio/portfolio-options.php:56
+msgid "6"
+msgstr ""
+
+#: inc/customizer/home-service/enable-service.php:16
+msgid "Service Enable Options"
+msgstr ""
+
+#: inc/customizer/home-service/enable-service.php:26
+msgid "Enable Service"
+msgstr ""
+
+#: inc/customizer/home-service/enable-service.php:40
+msgid "Enable Service Thumbnail"
+msgstr ""
+
+#: inc/customizer/home-service/enable-service.php:41
+msgid ""
+"On checking this will replace the icon on service section with thumbnail "
+"image only during the hover state of that post"
+msgstr ""
+
+#: inc/customizer/home-service/font-icon.php:16
+msgid "Service Icons"
+msgstr ""
+
+#: inc/customizer/home-service/font-icon.php:17
+msgid "This will let you choose font icon for service page\"."
+msgstr ""
+
+#: inc/customizer/home-service/font-icon.php:31
+#, php-format
+msgid "Icon %s"
+msgstr ""
+
+#: inc/customizer/home-service/font-icon.php:35
+#, php-format
+msgid "Use font awesome icon: Eg: %1$s. %2$sSee more here%3$s"
+msgstr ""
+
+#: inc/customizer/home-service/from-page.php:15
+msgid "Select Service From Page"
+msgstr ""
+
+#: inc/customizer/home-service/from-page.php:16
+msgid ""
+"This option only work when you have selected \"Page\" in \"Service selection "
+"Options\"."
+msgstr ""
+
+#: inc/customizer/home-service/from-page.php:29
+#, php-format
+msgid "Select Page For Service %s"
+msgstr ""
+
+#: inc/customizer/home-service/service-options.php:11
+msgid "Browse more services"
+msgstr ""
+
+#: inc/customizer/home-service/service-options.php:21
+msgid "Service Options"
+msgstr ""
+
+#: inc/customizer/home-service/service-options.php:35
+msgid "Select main page for service section"
+msgstr ""
+
+#: inc/customizer/home-service/service-options.php:49
+msgid "Number of Service/s"
+msgstr ""
+
+#: inc/customizer/home-service/service-options.php:68
+msgid "Number Of Words in Single Column Content"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:6
+msgid "Home/Front Service Section"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:12
+#, php-format
+msgid "%1$s If you do not have a logo %2$s"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:23
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:27
+msgid "Recommended logo size 165*50"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:50
+msgid "Enable Title"
+msgstr ""
+
+#: inc/customizer/site-identity/site-identity.php:63
+msgid "Enable Tagline"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:13
+msgid "Back To Top Options"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:23
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:13
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:9
+msgid "All right reserved"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:14
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:25
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:21
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:32
+#: inc/customizer/theme-options/layout-options.php:46
+msgid "Default Banner Image"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:33
+#: inc/customizer/theme-options/layout-options.php:47
+msgid ""
+"Please note that if you remove this image default banner image will appear"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:62
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:63
+msgid "Layout for all archives, single posts and pages"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:67
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:68
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:69
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:83
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:87
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:88
+msgid "Thumbnail and Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:101
+msgid "Archive Image Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:105
+#: inc/customizer/theme-options/layout-options.php:140
+#: inc/post-meta/layout-meta.php:52
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:106
+#: inc/customizer/theme-options/layout-options.php:141
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:109
+msgid ""
+"This option only work if you have selected \"Thumbnail and Excerpt\" or "
+"\"Thumbnail and Full Post\" in Archive Layout options"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:119
+msgid "Number Of Words For Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:120
+msgid "This will controll the excerpt length on listing page"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:136
+msgid "Alignment Of Image In Single Post/Page"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:142
+#: inc/post-meta/layout-meta.php:60
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:143
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:146
+msgid "Please note that this setting can be override from individual post/page"
+msgstr ""
+
+#: inc/customizer/theme-options/option-panel.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options/search-options.php:10
+msgid "Type your text here . . . ."
+msgstr ""
+
+#: inc/customizer/theme-options/search-options.php:17
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/theme-options/search-options.php:28
+msgid "Enable Search"
+msgstr ""
+
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-category-control.php:34
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-post-dropdown-control.php:48
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-tags-dropdown-control.php:46
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-user-dropdown-control.php:43
+msgid "Select"
+msgstr ""
+
+#: inc/function/breadcrumb.php:20 inc/function/breadcrumb.php:21
+#, php-format
+msgid "Archive for <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:22
+#, php-format
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:23
+#, php-format
+msgid "Posts tagged <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:24
+#, php-format
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/function/breadcrumb.php:25
+msgid "Error 404"
+msgstr ""
+
+#: inc/function/breadcrumb.php:147
+msgid "Page"
+msgstr ""
+
+#: inc/function/inner-head.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/function/inner-head.php:28 search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/function/inner-head.php:31
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/hooks/footer.php:113
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: inc/hooks/header.php:174
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/homepage-portfolio.php:88
+msgid "show all"
+msgstr ""
+
+#: inc/hooks/homepage-portfolio.php:155
+msgid "Item title"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:24
+msgid "Layout options"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:56
+msgid "Right "
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:64
+msgid "No Image"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:84
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "here"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:113
+msgid "Featured Image Alignment"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:19
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:21 inc/sidebar-widget-init.php:30
+#: inc/sidebar-widget-init.php:39
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/sidebar-widget-init.php:28
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:37
+msgid "Footer Column Three"
+msgstr ""
+
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:73 template-parts/content-page.php:47
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "bizplus"
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content-single.php:34
+#: template-parts/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:39 template-parts/content.php:59
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "BizPlus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.evisionthemes.com/bizplus/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BizPlus, a clean and professional WordPress Theme that looks awesome on any "
+"devices. It is really simple to configure the site yourself. No single "
+"coding is required to develop a travel website. Along the amazing layout "
+"this theme is customizable but yet powerful theme options. Some of the best "
+"features are featured post slider, social icons, custom logo, customizer "
+"API, translation ready (compatible with Popular plugin) and many more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eVision Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://evisionthemes.com"
+msgstr ""
